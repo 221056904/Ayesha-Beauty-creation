@@ -1,5 +1,5 @@
 
-functions for customer relationship management database
+function for our application
 
 1. provide a good place for the business to to keep track of customers interested in the products or services 
 2, help the business to grow efficiently annd well recognizied
