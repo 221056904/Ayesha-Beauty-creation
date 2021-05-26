@@ -1,0 +1,17 @@
+Start
+
+GET LoginID
+
+GET Password
+
+IF (LoginID == EnteredUsername && Password == EnteredPassword) THEN
+
+Login Successful
+
+ELSE
+
+Login Failed.
+
+ENDIF
+
+End
