@@ -1,9 +1,0 @@
-
-function for our application
-
-1. provide a good place for the business to to keep track of customers interested in the products or services 
-2, help the business to grow efficiently annd well recognizied
-3. to grow more profit
-4. it helps manage relationship with its customers 
-5. helps share an d update information which are more usefull to customers  and the employees 
-6. as well to know the customers interactions 
