@@ -24,3 +24,4 @@ HOW TO USE IT
 MY COLLABORATORS
 . https.//github.com/Sherleyn07/Ayesha-Beauty-Creation-
  
+our project improves the business efficiency of the business by helping it to offer great exposure to the the customers as well the business. it allows customers to order their products online as well ask for enquiries regarding the services. a customer can register to come a member and create her own secured account that no one will be able to have addess to except himself or herself. our project provide all the necessaries products and services that all the customers need and prefer.
