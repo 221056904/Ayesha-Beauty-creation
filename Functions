@@ -1,0 +1,13 @@
+Login
+overtime(hoursWorked,wages_per_hour){
+wages= hoursWorked * wages_per_hour
+print wage
+
+Leave Days
+
+digitalReciept(employee_id,employee_name,surname,leaveDays){
+print employee_id
+print employee_name
+print surname
+print leaveDays
+}
