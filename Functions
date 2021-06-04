@@ -2,6 +2,7 @@ Login
 overtime(hoursWorked,wages_per_hour){
 wages= hoursWorked * wages_per_hour
 print wage
+}
 
 Leave Days
 
